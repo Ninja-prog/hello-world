@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
 
-    <h1>Registration for DevOps Learning course</h1>
+    <h1>Poshli JRat</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
